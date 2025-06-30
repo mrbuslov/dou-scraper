@@ -13,4 +13,4 @@ Non-official dou.ua companies list scraper
    - __gsas
    - _ga_N62L6SV4PV
 5. Then go to payload -> copy csrfmiddlewaretoken
-6. You are ready to go! Paste all these values to `main.py` and run it!
+6. You are ready to go! Paste all these values to `dou_sraper.py` and run it!
